@@ -85,6 +85,6 @@ const Welcome = () => {
         </div>
     </section>
   )
-}
+};
 
-export default Welcome
+export default Welcome;
